@@ -87,18 +87,12 @@ footer {
     width:30%;
     height:30%;
     padding:5px;
-    border:1px solid #333;
-    border-radius:5px 90px;
-    background-color:#333;
 }
 
 .grafisch {
     width:30%;
     height:30%;
     padding:5px;
-    border:1px solid #333;
-    border-radius:1px;
-    background-color:#333;
 }
 
 .video {
@@ -112,7 +106,4 @@ footer {
     width:30%;
     height:30%;
     padding:5px;
-    border:1px solid #333;
-    border-radius:5px;
-    background-color:#333;
 }
